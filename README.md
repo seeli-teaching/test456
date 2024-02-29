@@ -3,7 +3,7 @@
 ### Ziel: Die Applikation in einem DevContainer weiterentwickelt werden
 - api  (das ist die API, die etwickelt wird)
 - db (MySQL Datenbank)
-- dbtool (phpadmin Tool zur Verwaltung der Datenbank)
+- dbtool (phpmyadmin Tool zur Verwaltung der Datenbank)
 
 #### Startbefehl CMD der API
 
